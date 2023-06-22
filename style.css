@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(252, 199, 252);
+    margin-top: 200px;
+}
+
+#container{
+    background-color:rgb(147, 255, 147);
+    border: 9px solid black;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+}
+
+p{
+    color:darkblue;
+    font-size: 35px
+    
+
+}
+
+#input {
+    width: 100px;
+    margin: 25px auto;
+    font-size: 30px;
+    
+}
+#userInput
+{
+    border: 5px solid black;
+}
+#btn {
+    margin:25px auto auto 5px;
+    font-size: 30px;
+
+}
+#btn{
+    border: 9px solid black;
+    color:black;
+  background-color: whitesmoke;
+}
